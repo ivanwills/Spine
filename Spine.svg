@@ -16,7 +16,7 @@
    width="2104.7244"
    height="2979.9211"
    sodipodi:docname="Spine.svg"
-   inkscape:export-filename="C:\DOKUME~1\CHRIST~1\Desktop\test.png"
+   inkscape:export-filename="/home/susan/Uni/Spine/Spine.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    version="1.0"
@@ -30,7 +30,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -349,18 +349,18 @@
        inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="1176"
-     inkscape:window-width="1920"
+     inkscape:window-height="876"
+     inkscape:window-width="1535"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1.9767226"
-     inkscape:cx="1637.6925"
-     inkscape:cy="1207.7766"
-     inkscape:window-x="0"
+     inkscape:zoom="2.7955079"
+     inkscape:cx="1866.2901"
+     inkscape:cy="1246.8597"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:current-layer="layer8"
      fill="#ffffff"
@@ -1666,7 +1666,7 @@
          y="-523.20483">PONS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="-195.38188"
        y="-649.81531"
        id="text6848"
@@ -1677,7 +1677,7 @@
          y="-649.81531">Superior Colliculus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:39.26967239px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="654.31842"
        y="-406.43039"
        id="text6852"
@@ -1688,18 +1688,19 @@
          x="654.31842"
          y="-406.43039">MIDBRAIN</tspan></text>
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -443.41333,-929.79048 1771.65353,0 0,0"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -337.11417,-929.78957 1665.35437,0 0,0"
        id="path5954-6-9-5"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -443.41337,-1000.6566 1771.65347,0 0,0"
+       d="m -443.41338,-965.22264 1771.65348,0 0,0"
        id="path5954-6-9-9"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -443.41337,-1071.5228 1771.65347,0 0,0"
+       d="m -443.41338,-1036.0888 1771.65348,0 0,0"
        id="path5954-6-9-8"
        inkscape:connector-curvature="0" />
     <path
@@ -1709,37 +1710,33 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-441.9848"
-       y="-880.24438"
-       id="text6913"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6915"
-         x="-441.9848"
-         y="-880.24438">CAPSULE</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-443.41339"
-       y="-948.92603"
+       style="font-size:21.26859283px;font-style:normal;font-weight:normal;line-height:87.99999952%;letter-spacing:-0.06203339px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="977.69342"
+       y="-361.54861"
        id="text6917"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="88%"
+       transform="matrix(0,-0.88619139,1.1284244,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6919"
-         x="-443.41339"
-         y="-948.92603">INTERNAL</tspan></text>
+         x="977.69342"
+         y="-361.54861"
+         style="font-size:21.26859283px;letter-spacing:0px">INTERNAL</tspan><tspan
+         sodipodi:role="line"
+         x="977.69342"
+         y="-342.83224"
+         id="tspan9511"
+         style="font-size:21.26859283px;letter-spacing:0px">CAPSULE</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
        x="-443.41339"
-       y="-1019.0385"
+       y="-978.5675"
        id="text6921"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6923"
          x="-443.41339"
-         y="-1019.0385">HYPOTHALAMUS</tspan></text>
+         y="-978.5675">HYPOTHALAMUS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
@@ -1785,7 +1782,7 @@
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="-337.11417"
        y="-795.83301"
        id="text6848-1"
@@ -1815,7 +1812,7 @@
        y="-823.49036" />
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="-297.31152"
        y="-757.14429"
        id="text6848-6"
@@ -1826,7 +1823,7 @@
          y="-757.14429">Inferior Colliculus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="-261.89938"
        y="-720.66058"
        id="text6848-9"
@@ -1837,7 +1834,7 @@
          y="-720.66058">Raphe Nucleus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
        x="-230.81496"
        y="-686.23926"
        id="text6848-0"
@@ -1862,6 +1859,45 @@
        style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="m -372.54724,-681.75807 1700.78744,0 0,0"
        id="path5954-7-7-12"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-337.11417"
+       y="-936.89294"
+       id="text9513"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9515"
+         x="-337.11417"
+         y="-936.89294">Anterior Limb</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-301.68109"
+       y="-903.46246"
+       id="text9517"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9519"
+         x="-301.68109"
+         y="-903.46246">Genu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-266.24802"
+       y="-870.53784"
+       id="text9521"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9523"
+         x="-266.24802"
+         y="-870.53784">Posterior Limb</tspan></text>
+    <path
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11968505;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m -337.11417,-894.35649 1665.35437,0 0,0"
+       id="path5954-6-9-5-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
   </g>
@@ -2316,6 +2352,26 @@
        d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
        transform="matrix(0.49999937,0,0,0.49999937,866.96987,-303.59098)"
        style="fill:url(#radialGradient7105-6);fill-opacity:1;display:inline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.9327141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1551.4817,116.65026 c 19.3272,19.32713 19.3272,19.32713 19.3272,19.32713"
+       id="path3996-8-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.9327141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1551.4817,135.97739 c 19.3272,-19.32713 19.3272,-19.32713 19.3272,-19.32713"
+       id="path3998-1-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.9327141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1547.479,126.31387 c 27.3327,0 27.3327,0 27.3327,0"
+       id="path3996-8-0-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.9327141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1561.1453,139.98021 c 0,-27.33269 0,-27.33269 0,-27.33269"
+       id="path3998-1-2-1"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2349,20 +2405,14 @@
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#0000af;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1420.4556,1282.5352 c 138.5924,-217.5738 138.5924,-217.5738 138.5924,-217.5738 l 0,-708.66137"
+       d="m 1420.4556,1282.5352 c 138.5924,-217.5738 138.5924,-217.5738 138.5924,-217.5738 l 0,-938.84035"
        id="path6950-62-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#0000eb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1369.9295,1393.8933 c 366.2838,-258.0656 366.2838,-258.0656 366.2838,-258.0656 l 0,-779.52747"
+       d="m 1369.9295,1393.8933 c 366.2838,-258.0656 366.2838,-258.0656 366.2838,-258.0656 l 0,-1007.75076"
        id="path6950-62-167"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1407.3862,1412.1262 c 364.2602,-240.8654 364.2602,-240.8654 364.2602,-240.8654 l 0,-814.96057"
-       id="path6950-62-14"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <text
@@ -2928,6 +2978,94 @@ ooAKKKKACiiigAooooAKKKKAP//Z
        inkscape:connector-curvature="0"
        transform="translate(-1.9880197,-1179.3948)"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1255.5337"
+       y="639.76459"
+       id="text9465"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9467"
+         x="1255.5337"
+         y="639.76459">Gracile</tspan><tspan
+         sodipodi:role="line"
+         x="1255.5337"
+         y="654.76459"
+         id="tspan9475">Nucleus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1389.7096"
+       y="651.65497"
+       id="text9469"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9471"
+         x="1389.7096"
+         y="651.65497">Cuneate</tspan><tspan
+         sodipodi:role="line"
+         x="1389.7096"
+         y="666.65497"
+         id="tspan9473">Nucleus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1430.6865"
+       y="591.45435"
+       id="text9477"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9479"
+         x="1430.6865"
+         y="591.45435">Lateral</tspan><tspan
+         sodipodi:role="line"
+         x="1430.6865"
+         y="606.45435"
+         id="tspan9481">Cuneate</tspan><tspan
+         sodipodi:role="line"
+         x="1430.6865"
+         y="621.45435"
+         id="tspan9483">Nucleus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-574.96912"
+       y="1342.79"
+       id="text9485"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9487"
+         x="-574.96912"
+         y="1342.79">Medial Lemniscal</tspan><tspan
+         sodipodi:role="line"
+         x="-574.96912"
+         y="1357.79"
+         id="tspan9489">Pathway</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.18818898;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 1490.1699,2051.2885 0,-54.9637"
+       id="path9491"
+       inkscape:connector-curvature="0"
+       transform="translate(-1.9880197,-1179.3948)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.75562572;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1523.6149,781.49688 0,-70.86614"
+       id="path9491-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.18818903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1594.4811,871.89365 0,-196.69598"
+       id="path9491-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1407.3862,1412.1262 c 364.2602,-240.8654 364.2602,-240.8654 364.2602,-240.8654 l 0,-692.62144 131.0284,-0.7707"
+       id="path6950-62-14"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
   <g
      inkscape:groupmode="layer"
