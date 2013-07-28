@@ -527,22 +527,126 @@
          offset="1"
          style="stop-color:#ce0000;stop-opacity:0.33076924;" />
     </linearGradient>
+    <radialGradient
+       r="22.893871"
+       fy="1813.7645"
+       fx="1104.6293"
+       cy="1813.7645"
+       cx="1104.6293"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5205-9"
+       xlink:href="#linearGradient3978-6-1-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3978-6-1-7">
+      <stop
+         style="stop-color:#e50017;stop-opacity:1;"
+         offset="0"
+         id="stop3984-0-2-3" />
+      <stop
+         id="stop3982-73-1-6"
+         offset="1"
+         style="stop-color:#ce0000;stop-opacity:0.33076924;" />
+    </linearGradient>
+    <radialGradient
+       r="22.893871"
+       fy="1813.7645"
+       fx="1104.6293"
+       cy="1813.7645"
+       cx="1104.6293"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4363"
+       xlink:href="#linearGradient3978-6-1-7"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8-5"
+       style="overflow:visible">
+      <path
+         id="path7147-8-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8-1"
+       style="overflow:visible">
+      <path
+         id="path7147-8-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <radialGradient
+       r="22.893871"
+       fy="1813.7645"
+       fx="1104.6293"
+       cy="1813.7645"
+       cx="1104.6293"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5096-7"
+       xlink:href="#linearGradient3978-9-8"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3978-9-8">
+      <stop
+         style="stop-color:#e50017;stop-opacity:1;"
+         offset="0"
+         id="stop3984-8-0" />
+      <stop
+         id="stop3982-7-1"
+         offset="1"
+         style="stop-color:#ce0000;stop-opacity:0.33076924;" />
+    </linearGradient>
+    <radialGradient
+       r="22.893871"
+       fy="1813.7645"
+       fx="1104.6293"
+       cy="1813.7645"
+       cx="1104.6293"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5308"
+       xlink:href="#linearGradient3978-9-8"
+       inkscape:collect="always" />
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-8-9"
+       style="overflow:visible">
+      <path
+         id="path7147-8-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
   </defs>
   <sodipodi:namedview
-     inkscape:window-height="1176"
-     inkscape:window-width="1920"
+     inkscape:window-height="876"
+     inkscape:window-width="1535"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="0.9883613"
-     inkscape:cx="1384.717"
-     inkscape:cy="951.26946"
-     inkscape:window-x="0"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="812.39122"
+     inkscape:cy="1555.5721"
+     inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      fill="#ffffff"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1982,12 +2086,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.9615376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m -478.84645,-646.32507 1771.65365,0 779.5274,10e-4"
-       id="path5954-4-8-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="m 832.17717,-1213.2542 0,1417.32282"
        id="path6929-1-3-9-0"
@@ -2044,49 +2142,49 @@
      style="display:inline">
     <path
        style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 1002.9602,1690.4927 C 710.62132,1561.0145 710.62132,1561.0145 710.62132,1561.0145 l 0,-956.69294"
+       d="m 994.08696,1687.4346 c -283.46457,-55.5528 -283.46457,-55.5528 -283.46457,-55.5528 l 0,-1169.2913"
        id="path6950"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1049.5913,1705.9558 c -374.40305,-3.209 -374.40305,-3.209 -374.40305,-3.209 l 0,-956.69296"
+       d="m 1049.5913,1705.9558 c -374.40305,-3.209 -374.40305,-3.209 -374.40305,-3.209 l 10e-4,-1027.55788"
        id="path6950-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#c30000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 938.98624,1568.5305 C 818.92316,1383.8491 816.92053,1383.8491 816.92053,1383.8491 l 0,-867.41519"
+       d="M 938.98624,1568.5305 C 818.92316,1383.8491 816.92053,1383.8491 816.92053,1383.8491 l 0.001,-1311.022384"
        id="path6950-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#9b0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 975.87384,1512.8408 C 852.3536,1348.4162 852.3536,1348.4162 852.3536,1348.4162 l 0.001,-1523.62098"
+       d="M 975.87384,1512.8408 C 852.3536,1348.4162 852.3536,1348.4162 852.3536,1348.4162 l 0.001,-1275.589484"
        id="path6950-35"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        id="path7019"
        style="fill:none;stroke:#5f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1048.6992,1550.8049 c -54.61336,-273.255 -54.61336,-273.255 -54.61336,-273.255 l 0,-389.76377"
+       d="m 1048.6992,1550.8049 c -54.61336,-273.255 -54.61336,-273.255 -54.61336,-273.255 l 0.001,-1204.723184"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1225.1432"
+       x="-1234.7662"
        y="990.48065"
        id="text3194"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3196"
-         x="-1225.1432"
+         x="-1234.7662"
          y="990.48065"
          style="font-size:12px">Lateral Reticulospinal tract </tspan><tspan
          sodipodi:role="line"
-         x="-1225.1432"
+         x="-1234.7662"
          y="1005.4807"
          id="tspan3198"
          style="font-size:12px">Regulates muscle tone</tspan></text>
@@ -2097,7 +2195,7 @@
        sodipodi:cy="1813.7645"
        sodipodi:rx="22.893871"
        sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
        transform="translate(-110.54339,-925.0287)"
        style="fill:url(#radialGradient3976);fill-opacity:1" />
     <text
@@ -2115,22 +2213,219 @@
          x="958.65289"
          y="881.22382"
          id="tspan3990">Reticular Formation</tspan></text>
+    <path
+       style="fill:none;stroke:#9b0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1001.7368,1438.9601 c -78.51598,-125.9759 -78.51598,-125.9759 -78.51598,-125.9759 l 0,-1240.157484"
+       id="path6950-35-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 965.31324,1648.6169 C 746.05546,1454.7165 746.05546,1454.7165 746.05546,1454.7165 l 0,-1381.889784"
+       id="path6950-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path7019-6"
+       style="fill:none;stroke:#5f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1095.2618,1624.6645 c -30.3087,-347.1134 -30.3087,-347.1134 -30.3087,-347.1134 l 0,-1204.724384"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-1233.3521"
+       y="1059.8549"
+       id="text3194-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3196-5"
+         x="-1233.3521"
+         y="1059.8549"
+         style="font-size:12px">Medial Reticulospinal tract </tspan><tspan
+         sodipodi:role="line"
+         x="-1233.3521"
+         y="1074.8549"
+         id="tspan3198-8"
+         style="font-size:12px">Position of head and neck</tspan></text>
+    <path
+       sodipodi:type="arc"
+       id="path3200-2"
+       sodipodi:cx="1104.6293"
+       sodipodi:cy="1813.7645"
+       sodipodi:rx="22.893871"
+       sodipodi:ry="22.893871"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="translate(-39.676171,-1066.2965)"
+       style="fill:url(#radialGradient3976-8);fill-opacity:1;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1024.8696"
+       y="726.4162"
+       id="text3986-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3988-3"
+         x="1024.8696"
+         y="726.4162">Pontine </tspan><tspan
+         sodipodi:role="line"
+         x="1024.8696"
+         y="741.4162"
+         id="tspan3990-6">Reticular Formation</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="m 1082.1415,1714.685 c -442.38633,23.4948 -442.38633,23.4948 -442.38633,23.4948 l 0,-832.32814"
+       id="path6950-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1229.4396"
+       y="1130.793"
+       id="text5007"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5009"
+         x="-1229.4396"
+         y="1130.793">Anterior Corticospinal</tspan><tspan
+         sodipodi:role="line"
+         x="-1229.4396"
+         y="1145.793"
+         id="tspan5011">Skilled voluntary somatic movement</tspan><tspan
+         sodipodi:role="line"
+         x="-1229.4396"
+         y="1160.793"
+         id="tspan5013">Movement of axial girdle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1231.9377"
+       y="937.09015"
+       id="text5015"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5017"
+         x="-1231.9377"
+         y="937.09015">Raphe Spinal Tract</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1230.8539"
+       y="852.35468"
+       id="text5019"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5021"
+         x="-1230.8539"
+         y="852.35468">Lateral Corticaspinal Tract</tspan><tspan
+         sodipodi:role="line"
+         x="-1230.8539"
+         y="867.35468"
+         id="tspan5023">Voluntary somatic movement</tspan><tspan
+         sodipodi:role="line"
+         x="-1230.8539"
+         y="882.35468"
+         id="tspan5025">Movement of contralateral limbs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.7662"
+       y="812.54535"
+       id="text5027"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5029"
+         x="-1234.7662"
+         y="812.54535">Rubrospinal Tract</tspan><tspan
+         sodipodi:role="line"
+         x="-1234.7662"
+         y="827.54535"
+         id="tspan5031">Facilitates flexion and inhibits extension of upper limbs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.7662"
+       y="670.96765"
+       id="text5033"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5035"
+         x="-1234.7662"
+         y="670.96765">Medial Vestibulospinal Tract</tspan><tspan
+         sodipodi:role="line"
+         x="-1234.7662"
+         y="685.96765"
+         id="tspan5037">Position of head and neck</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.7662"
+       y="634.67542"
+       id="text5039"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5041"
+         x="-1234.7662"
+         y="634.67542">Lateral Vestibulospinal Tract</tspan><tspan
+         sodipodi:role="line"
+         x="-1234.7662"
+         y="649.67542"
+         id="tspan5043">Balance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.2623"
+       y="741.86432"
+       id="text5045"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5047"
+         x="-1234.2623"
+         y="741.86432">Colliculospinal Tract</tspan><tspan
+         sodipodi:role="line"
+         x="-1234.2623"
+         y="756.86432"
+         id="tspan4585">Coordinates reflex head and eye movement</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.2623"
+       y="706.53857"
+       id="text5049"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5051"
+         x="-1234.2623"
+         y="706.53857">Olivospinal Tract</tspan></text>
     <g
-       id="g4000"
-       transform="matrix(0.1090909,0,0,0.10909095,142.83509,1274.1148)"
-       style="stroke-width:17.7165432;stroke-miterlimit:4;stroke-dasharray:none">
-      <path
-         transform="translate(-0.01991057,-1179.4035)"
-         inkscape:connector-curvature="0"
-         id="path3996"
-         d="m -494.08211,1358.5295 c 177.16536,177.1653 177.16536,177.1653 177.16536,177.1653"
-         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         transform="translate(-0.01991057,-1179.4035)"
-         inkscape:connector-curvature="0"
-         id="path3998"
-         d="m -494.08211,1535.6948 c 177.16536,-177.1653 177.16536,-177.1653 177.16536,-177.1653"
-         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+       id="g5059"
+       transform="translate(-141.73336,283.4633)">
+      <g
+         id="g5055">
+        <path
+           style="fill:none;stroke:#d70000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1256.9829,1113.6244 c 20.5697,-373.4972 20.5697,-373.4972 20.5697,-373.4972 l 0,-950.76378"
+           id="path6950-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#d70000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1206.6854,675.18897 -212.59846,0"
+           id="path5053"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+      </g>
     </g>
     <g
        id="g4000-3"
@@ -2150,257 +2445,31 @@
          style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <path
-       style="fill:none;stroke:#9b0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 1001.7368,1438.9601 C 887.78664,1312.983 887.78664,1312.983 887.78664,1312.983 l 0,-726.76881"
-       id="path6950-35-0"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 965.31324,1648.6169 C 746.05439,1525.5814 746.05439,1525.5814 746.05439,1525.5814 l 0,-869.15338"
-       id="path6950-6-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       id="path7019-6"
-       style="fill:none;stroke:#5f0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 1095.2618,1624.6645 c -65.7429,-347.1146 -65.7429,-347.1146 -65.7429,-347.1146 l 0,-531.49606"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-1225.1431"
-       y="1025.9137"
-       id="text3194-7"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan3196-5"
-         x="-1225.1431"
-         y="1025.9137"
-         style="font-size:12px">Medial Reticulospinal tract </tspan><tspan
-         sodipodi:role="line"
-         x="-1225.1431"
-         y="1040.9137"
-         id="tspan3198-8"
-         style="font-size:12px">Position of head and neck</tspan></text>
-    <path
-       sodipodi:type="arc"
-       id="path3200-2"
-       sodipodi:cx="1104.6293"
-       sodipodi:cy="1813.7645"
-       sodipodi:rx="22.893871"
-       sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
-       transform="translate(-74.78322,-1067.7107)"
-       style="fill:url(#radialGradient3976-8);fill-opacity:1;display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="989.76263"
-       y="725.00201"
-       id="text3986-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3988-3"
-         x="989.76263"
-         y="725.00201">Pontine </tspan><tspan
-         sodipodi:role="line"
-         x="989.76263"
-         y="740.00201"
-         id="tspan3990-6">Reticular Formation</tspan></text>
-    <path
-       style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="m 1082.1415,1714.685 c -442.38633,23.4948 -442.38633,23.4948 -442.38633,23.4948 l 0,-832.32814"
-       id="path6950-6-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1228.3751"
-       y="1061.4965"
-       id="text5007"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5009"
-         x="-1228.3751"
-         y="1061.4965">Anterior Corticospinal</tspan><tspan
-         sodipodi:role="line"
-         x="-1228.3751"
-         y="1076.4965"
-         id="tspan5011">Skilled voluntary somatic movement</tspan><tspan
-         sodipodi:role="line"
-         x="-1228.3751"
-         y="1091.4965"
-         id="tspan5013">Movement of axial girdle</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1203.1305"
-       y="900.32062"
-       id="text5015"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5017"
-         x="-1203.1305"
-         y="900.32062">Raphe Spinal Tract</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1206.6837"
-       y="847.8855"
-       id="text5019"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5021"
-         x="-1206.6837"
-         y="847.8855">Lateral Corticaspinal Tract</tspan><tspan
-         sodipodi:role="line"
-         x="-1206.6837"
-         y="862.8855"
-         id="tspan5023">Voluntary somatic movement</tspan><tspan
-         sodipodi:role="line"
-         x="-1206.6837"
-         y="877.8855"
-         id="tspan5025">Movement of contralateral limbs</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1213.2603"
-       y="812.54535"
-       id="text5027"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5029"
-         x="-1213.2603"
-         y="812.54535">Rubrospinal Tract</tspan><tspan
-         sodipodi:role="line"
-         x="-1213.2603"
-         y="827.54535"
-         id="tspan5031">Facilitates flexion and inhibits extension of upper limbs</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1225.9075"
-       y="670.96765"
-       id="text5033"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5035"
-         x="-1225.9075"
-         y="670.96765">Medial Vestibulospinal Tract</tspan><tspan
-         sodipodi:role="line"
-         x="-1225.9075"
-         y="685.96765"
-         id="tspan5037">Position of head and neck</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1223.3781"
-       y="634.67542"
-       id="text5039"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5041"
-         x="-1223.3781"
-         y="634.67542">Lateral Vestibulospinal Tract</tspan><tspan
-         sodipodi:role="line"
-         x="-1223.3781"
-         y="649.67542"
-         id="tspan5043">Balance</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1225.0004"
-       y="741.86432"
-       id="text5045"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5047"
-         x="-1225.0004"
-         y="741.86432">Colliculospinal Tract</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1229.4486"
-       y="706.53857"
-       id="text5049"
-       sodipodi:linespacing="125%"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan5051"
-         x="-1229.4486"
-         y="706.53857">Olivospinal Tract</tspan></text>
-    <g
-       id="g5059"
-       transform="translate(-141.73336,283.4633)">
-      <g
-         id="g5055">
-        <path
-           style="fill:none;stroke:#d70000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1256.9829,1367.585 c -50.2975,-373.49839 -50.2975,-373.49839 -50.2975,-373.49839 l 0,-318.89764"
-           id="path6950-3"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
-        <path
-           style="fill:none;stroke:#d70000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1206.6854,675.18897 -212.59846,0"
-           id="path5053"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-      </g>
-    </g>
-    <path
-       sodipodi:type="arc"
-       id="path3200-7"
-       sodipodi:cx="1104.6293"
-       sodipodi:cy="1813.7645"
-       sodipodi:rx="22.893871"
-       sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
-       transform="matrix(0.61908395,0,0,0.61908395,203.92842,-536.87367)"
-       style="fill:url(#radialGradient5096);fill-opacity:1;display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="860.00964"
-       y="588.93451"
-       id="text3986-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="860.00964"
-         y="588.93451"
-         id="tspan3990-4">Raphe nucleus</tspan></text>
-    <path
        sodipodi:type="arc"
        id="path3200-1"
        sodipodi:cx="1104.6293"
        sodipodi:cy="1813.7645"
        sodipodi:rx="22.893871"
        sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
-       transform="matrix(0.58015534,0,0,0.58015534,176.06396,-536.30987)"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="matrix(0.58015534,0,0,0.58015534,176.06503,-727.53549)"
        style="fill:url(#radialGradient5161);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="784.50891"
-       y="511.50925"
+       x="784.51001"
+       y="320.28363"
        id="text3986-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="784.50891"
-         y="511.50925"
+         x="784.51001"
+         y="320.28363"
          id="tspan3990-5">Red nucleus</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25103283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 639.31806,1171.3005 0,-261.49833"
+       id="path9491-8"
+       inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
        id="path3200-1-8"
@@ -2408,9 +2477,169 @@
        sodipodi:cy="1813.7645"
        sodipodi:rx="22.893871"
        sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
        transform="matrix(0.87294175,0,0,0.87294175,-325.97674,-677.81609)"
        style="fill:url(#radialGradient5205);fill-opacity:1;display:inline" />
+    <path
+       sodipodi:type="arc"
+       id="path3200-7-9"
+       sodipodi:cx="1104.6293"
+       sodipodi:cy="1813.7645"
+       sodipodi:rx="22.893871"
+       sodipodi:ry="22.893871"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="matrix(0.61908395,0,0,0.61908395,62.19721,-906.1365)"
+       style="fill:url(#radialGradient4447);fill-opacity:1;display:inline" />
+    <path
+       style="fill:none;stroke:#c30000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
+       d="M 1060.3993,1676.8324 C 746.05546,1454.7165 746.05546,1454.7165 746.05546,1454.7165"
+       id="path6950-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25052786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 675.10563,1100.4071 0,-420.94652"
+       id="path9491-8-9"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       id="path3200-1-8-5"
+       sodipodi:cx="1104.6293"
+       sodipodi:cy="1813.7645"
+       sodipodi:rx="22.893871"
+       sodipodi:ry="22.893871"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="matrix(0.87294175,0,0,0.87294175,-287.62448,-908.12186)"
+       style="fill:url(#radialGradient4363);fill-opacity:1;display:inline" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.2530303;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 746.05546,1029.5196 0,-810.70757"
+       id="path9491-8-9-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25361538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 816.65476,1241.8236 0,-917.00563"
+       id="path9491-8-9-0-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25459337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 923.22082,958.65349 0,-562.67311"
+       id="path9491-8-9-1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       id="path3200-7"
+       sodipodi:cx="1104.6293"
+       sodipodi:cy="1813.7645"
+       sodipodi:rx="22.893871"
+       sodipodi:ry="22.893871"
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="matrix(0.61908395,0,0,0.61908395,239.36256,-728.34233)"
+       style="fill:url(#radialGradient5096);fill-opacity:1;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="895.44379"
+       y="397.46585"
+       id="text3986-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="895.44379"
+         y="397.46585"
+         id="tspan3990-4">Raphe nucleus</tspan><tspan
+         sodipodi:role="line"
+         x="895.44379"
+         y="412.46585"
+         id="tspan5288">Magnus</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25328875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 994.08696,1242.1181 0,-350.07747"
+       id="path9491-8-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:4.25024128;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1135.8192,1171.5543 0,-212.90081"
+       id="path9491-8-0"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4000-4"
+       transform="matrix(0.1090909,0,0,0.10909095,1180.3291,928.5038)"
+       style="stroke-width:17.7165432;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3996-3"
+         d="m -494.08211,1358.5295 c 177.16536,177.1653 177.16536,177.1653 177.16536,177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3998-9"
+         d="m -494.08211,1535.6948 c 177.16536,-177.1653 177.16536,-177.1653 177.16536,-177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;text-anchor:middle;text-align:center"
+       x="746.28735"
+       y="202.19673"
+       id="text3986-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="718.34985"
+         y="202.19673"
+         id="tspan3990-5-2">Superior</tspan><tspan
+         sodipodi:role="line"
+         x="718.34985"
+         y="217.19673"
+         id="tspan4608">Colliculus</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 746.05546,72.826716 0,-141.732283"
+       id="path6950-6-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 746.05546,-68.905571 0,-13.049209"
+       id="path6950-6-3-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="746.05548"
+       y="-139.77171"
+       id="text4646"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="746.05548"
+         y="-139.77171"
+         id="tspan4652">Sensory</tspan><tspan
+         sodipodi:role="line"
+         x="746.05548"
+         y="-119.77171"
+         id="tspan4656">association</tspan><tspan
+         sodipodi:role="line"
+         x="746.05548"
+         y="-99.771706"
+         id="tspan4650">areas</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;fill-opacity:0.74429226000000004;stroke:#eb0000;stroke-width:0.99921262000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4658"
+       sodipodi:cx="749.2962"
+       sodipodi:cy="174.67641"
+       sodipodi:rx="67.645287"
+       sodipodi:ry="38.537319"
+       d="m 816.94149,174.67641 a 67.645287,38.537319 0 1 1 -135.29057,0 67.645287,38.537319 0 1 1 135.29057,0 z"
+       transform="matrix(0.90183887,0,0,1.0890509,70.311021,-314.20876)" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
+       d="m 498.02397,906.73462 141.73228,0"
+       id="path6950-6-3-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -2421,7 +2650,7 @@
          sodipodi:role="line"
          x="612.60565"
          y="894.23865"
-         id="tspan3990-5-7">Medial</tspan><tspan
+         id="tspan3990-5-7">Lateral</tspan><tspan
          sodipodi:role="line"
          x="612.60565"
          y="909.23865"
@@ -2431,34 +2660,253 @@
          y="924.23865"
          id="tspan5230">nucleus</tspan></text>
     <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
+       d="m 533.45704,675.18892 141.73229,0"
+       id="path6950-6-3-0-1-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="650.95789"
+       y="663.93286"
+       id="text3986-4-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="650.95789"
+         y="663.93286"
+         id="tspan3990-5-7-7">Medial</tspan><tspan
+         sodipodi:role="line"
+         x="650.95789"
+         y="678.93286"
+         id="tspan5228-3">Vestibular</tspan><tspan
+         sodipodi:role="line"
+         x="650.95789"
+         y="693.93286"
+         id="tspan5230-6">nucleus</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
+       d="m 568.89011,568.88971 141.73228,0"
+       id="path6950-6-3-0-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="394.54568"
+       y="909.56299"
+       id="text5086"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5088"
+         x="394.54568"
+         y="909.56299">To Cerebellum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="423.20779"
+       y="681.16748"
+       id="text5086-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5088-7"
+         x="423.20779"
+         y="681.16748">To Cerebellum</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="462.59088"
+       y="572.5426"
+       id="text5086-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5088-0"
+         x="462.59088"
+         y="572.5426">To Cerebellum</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 816.92161,72.826716 0,-141.732285"
+       id="path6950-6-3-0-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 852.35467,72.826682 0,-141.73228"
+       id="path6950-6-3-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 923.22082,72.826716 0,-141.73228"
+       id="path6950-6-3-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 994.08696,72.826716 0,-141.73228"
+       id="path6950-6-3-0-65"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 1064.9531,69.826682 0,-141.73228"
+       id="path6950-6-3-0-44"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
+       d="m 1135.8192,72.826716 0,-141.73228"
+       id="path6950-6-3-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="994.08698"
+       y="-133.77173"
+       id="text4646-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="994.08698"
+         y="-133.77173"
+         id="tspan4650-8">Primary</tspan><tspan
+         sodipodi:role="line"
+         x="994.08698"
+         y="-113.77173"
+         id="tspan5207">Motor</tspan><tspan
+         sodipodi:role="line"
+         x="994.08698"
+         y="-93.771729"
+         id="tspan5209">Cortex</tspan></text>
+    <path
        sodipodi:type="arc"
-       id="path3200-7-9"
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="path4658-7"
+       sodipodi:cx="749.2962"
+       sodipodi:cy="174.67641"
+       sodipodi:rx="67.645287"
+       sodipodi:ry="38.537319"
+       d="m 816.94149,174.67641 a 67.645287,38.537319 0 1 1 -135.29057,0 67.645287,38.537319 0 1 1 135.29057,0 z"
+       transform="matrix(2.6190349,0,0,1.0890509,-968.34591,-308.20877)" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 816.92161,-68.905567 16.05848,-31.351443"
+       id="path6950-6-3-0-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 852.35468,-68.905567 4.37541,-22.60144"
+       id="path6950-6-3-0-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 923.22082,-68.905567 0,-9.85144"
+       id="path6950-6-3-0-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 994.08696,-67.957807 0,-8.2992"
+       id="path6950-6-3-0-6-40"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 1064.9531,-69.707807 0,-9.7992"
+       id="path6950-6-3-0-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 1134.7301,-68.905567 -7.75,-21.35144"
+       id="path6950-6-3-0-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4000"
+       transform="matrix(0.1090909,0,0,0.10909095,860.92689,255.98317)"
+       style="stroke-width:17.7165432;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3996"
+         d="m -494.08211,1358.5295 c 177.16536,177.1653 177.16536,177.1653 177.16536,177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3998"
+         d="m -494.08211,1535.6948 c 177.16536,-177.1653 177.16536,-177.1653 177.16536,-177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       id="path3200-7-2"
        sodipodi:cx="1104.6293"
        sodipodi:cy="1813.7645"
        sodipodi:rx="22.893871"
        sodipodi:ry="22.893871"
-       d="m 1127.5231,1813.7645 c 0,12.644 -10.2499,22.8939 -22.8938,22.8939 -12.644,0 -22.8939,-10.2499 -22.8939,-22.8939 0,-12.6439 10.2499,-22.8938 22.8939,-22.8938 12.6439,0 22.8938,10.2499 22.8938,22.8938 z"
-       transform="matrix(0.61908395,0,0,0.61908395,62.196132,-466.50716)"
-       style="fill:url(#radialGradient4447);fill-opacity:1;display:inline" />
-    <path
-       style="fill:none;stroke:#c30000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
-       d="M 1060.3993,1676.8324 C 781.48746,1490.1483 781.48746,1490.1483 781.48746,1490.1483 l 0,-902.6694"
-       id="path6950-4-2"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       d="m 1127.5231,1813.7645 a 22.893871,22.893871 0 1 1 -45.7877,0 22.893871,22.893871 0 1 1 45.7877,0 z"
+       transform="matrix(0.61908395,0,0,0.61908395,239.36256,-838.69272)"
+       style="fill:url(#radialGradient5308);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-1223.5277"
-       y="776.7085"
-       id="text5045-8"
+       x="895.44379"
+       y="287.11551"
+       id="text3986-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="895.44379"
+         y="287.11551"
+         id="tspan3990-4-5">Raphe nucleus</tspan><tspan
+         sodipodi:role="line"
+         x="895.44379"
+         y="302.11551"
+         id="tspan5288-8">Dorsalis</tspan></text>
+    <path
+       style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
+       d="m 1067.2724,285.42514 -141.7323,0"
+       id="path6950-6-3-0-1-6-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="1075.3323"
+       y="289.07803"
+       id="text5086-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5088-0-0"
+         x="1075.3323"
+         y="289.07803">To Motor facial nucleus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-211.30934"
+       y="894.9303"
+       id="text5363"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
-         id="tspan5047-6"
-         x="-1223.5277"
-         y="776.7085">Tectospinal Tract</tspan></text>
-  </g>
+         id="tspan5365"
+         x="-211.30934"
+         y="894.9303">Corticorubral Fibres</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5367"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-0.01991057,-304.20677)"><flowRegion
+         id="flowRegion5369"><rect
+           id="rect5371"
+           width="43.840622"
+           height="177.4838"
+           x="832.26471"
+           y="665.76208" /></flowRegion><flowPara
+         id="flowPara5373" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
