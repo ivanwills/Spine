@@ -863,11 +863,11 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:zoom="0.7071068"
-     inkscape:cx="1978.8999"
-     inkscape:cy="1322.0006"
+     inkscape:cx="1865.7628"
+     inkscape:cy="869.45229"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer3"
      fill="#ffffff"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -3894,6 +3894,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Brainstem" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
