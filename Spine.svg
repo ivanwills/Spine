@@ -2018,6 +2018,108 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
          transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8493-0"
+       id="linearGradient8491-4"
+       x1="1481.3116"
+       y1="855.37994"
+       x2="1499.0282"
+       y2="855.37994"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient8493-0">
+      <stop
+         id="stop8495-4"
+         offset="0"
+         style="stop-color:#f70000;stop-opacity:0;" />
+      <stop
+         style="stop-color:#f70000;stop-opacity:1;"
+         offset="0.5"
+         id="stop8499-3" />
+      <stop
+         id="stop8497-5"
+         offset="1"
+         style="stop-color:#f70000;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(-67.299252,1010.8444)"
+       y2="855.37994"
+       x2="1499.0282"
+       y1="855.37994"
+       x1="1481.3116"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient19104"
+       xlink:href="#linearGradient8493-0"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14186-9"
+       id="linearGradient14184-7"
+       x1="1383.8706"
+       y1="753.22443"
+       x2="1394.9999"
+       y2="753.22443"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient14186-9">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop14188-1" />
+      <stop
+         id="stop14190-1"
+         offset="0.5"
+         style="stop-color:#00ed00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop14192-2" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(4.4137549e-5,-0.99409404)"
+       y2="753.22443"
+       x2="1394.9999"
+       y1="753.22443"
+       x1="1383.8706"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient19141"
+       xlink:href="#linearGradient14186-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14186-1"
+       id="linearGradient14184-9"
+       x1="1383.8706"
+       y1="753.22443"
+       x2="1394.9999"
+       y2="753.22443"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient14186-1">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop14188-4" />
+      <stop
+         id="stop14190-2"
+         offset="0.5"
+         style="stop-color:#00ed00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop14192-4" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(35.433199,1172.1517)"
+       y2="753.22443"
+       x2="1394.9999"
+       y1="753.22443"
+       x1="1383.8706"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient19141-6"
+       xlink:href="#linearGradient14186-1"
+       inkscape:collect="always" />
   </defs>
   <sodipodi:namedview
      inkscape:window-height="1176"
@@ -2028,9 +2130,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="1669.6511"
-     inkscape:cy="1115.8478"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="1036.9755"
+     inkscape:cy="718.13412"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:current-layer="layer3"
@@ -4393,14 +4495,6 @@
          x="-271.99207"
          y="1075.7042"
          id="tspan4335-6">Fibres</tspan></text>
-    <rect
-       style="fill:url(#linearGradient14184);fill-opacity:1;stroke:none"
-       id="rect14176"
-       width="11.129272"
-       height="228.5"
-       x="1383.8706"
-       y="574.72443"
-       transform="translate(-0.01991057,-304.20677)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6554,7 +6648,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#0000f0;stroke-width:1.08622122000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.34488474000000036, 4.34488474000000036;stroke-dashoffset:0;marker-start:none;marker-end:none;display:inline;opacity:0.51028807"
+       style="opacity:0.51028807;fill:none;stroke:#0000f0;stroke-width:1.08622122;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.34488474, 4.34488474;stroke-dashoffset:0;marker-start:none;marker-end:none;display:inline"
        d="m 1809.0675,1141.4279 212.5984,-82.2827"
        id="path6950-6-3-0-1-6-7-1-0-3-3-2-1-6"
        inkscape:connector-curvature="0"
@@ -6572,7 +6666,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#f00000;stroke-width:1.02927422999999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.11709675999999991, 4.11709675999999991;stroke-dashoffset:0;marker-start:none;marker-end:none;display:inline;opacity:0.5"
+       style="opacity:0.5;fill:none;stroke:#f00000;stroke-width:1.02927423;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.11709676, 4.11709676;stroke-dashoffset:0;marker-start:none;marker-end:none;display:inline"
        d="m 1809.0675,1077.9522 212.5984,-30.6533"
        id="path6950-6-3-0-1-6-7-1-0-3-3-2-1-6-4"
        inkscape:connector-curvature="0"
@@ -6661,6 +6755,142 @@
        id="path6950-6-3-0-1-6-7-6-2-5-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#f4f5d6;fill-opacity:1;stroke:#000000;stroke-width:0.95163238;stroke-opacity:1;display:inline"
+       id="rect1362-2"
+       width="594.06873"
+       height="248.03154"
+       x="1392.1642"
+       y="1652.624"
+       inkscape:export-filename="D:\Eigene Dateien\Projekte\Wikipedia\Grafiken\g5117.png"
+       inkscape:export-xdpi="199.95248"
+       inkscape:export-ydpi="199.95248" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.12500668px;font-style:normal;font-weight:normal;line-height:150%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="1434.089"
+       y="1670.6534"
+       id="text9889-5"
+       sodipodi:linespacing="150%"
+       transform="scale(0.98969016,1.0104172)"><tspan
+         id="tspan36094-4"
+         sodipodi:role="line"
+         x="1434.089"
+         y="1670.6534"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans">   = Point of decussation</tspan><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1688.8409"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19044" /><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1707.0284"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19046">   = Two fibre tract where one set of fibers remains ipsilateral and one decussates</tspan><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1725.2159"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19048" /><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1743.4034"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19056">   = Cavernous sinus</tspan><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1761.5911"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19058" /><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1779.7786"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19054">G = Ganglion</tspan><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1797.9661"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19064" /><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1816.1536"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19066">N = Nerve</tspan><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1834.3411"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans"
+         id="tspan19068" /><tspan
+         sodipodi:role="line"
+         x="1434.089"
+         y="1852.5286"
+         id="tspan9903-3"
+         style="font-size:12.12500668px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans">   = RAS</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4838-1"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(433.80257,-1034.6074)"><flowRegion
+         id="flowRegion4840-1"><rect
+           id="rect4842-7"
+           width="0.50588787"
+           height="18.717852"
+           x="1144.3184"
+           y="2799.825" /></flowRegion><flowPara
+         id="flowPara4844-6" /></flowRoot>    <path
+       style="fill:none;stroke:url(#linearGradient19104);stroke-width:17.71653557;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1422.8706,1886.2047 0,-34.4607"
+       id="path8454-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:url(#linearGradient19141);fill-opacity:1;stroke:none;display:inline"
+       id="rect14176"
+       width="11.129272"
+       height="228.5"
+       x="1383.8706"
+       y="573.73035" />
+    <rect
+       style="fill:url(#linearGradient19141-6);fill-opacity:1;stroke:none;display:inline"
+       id="rect14176-6"
+       width="11.129272"
+       height="25.206772"
+       x="1419.3037"
+       y="1746.8761" />
+    <g
+       transform="translate(-400.82128,920.43748)"
+       id="g16734-7"
+       style="stroke:#0000f3;stroke-opacity:1;display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16714-6"
+         d="m 1815.25,795.4744 8.25,15.75"
+         style="fill:none;stroke:#0000f3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path16714-0-7"
+         d="m 1820.125,792.3494 8.25,15.75"
+         style="fill:none;stroke:#0000f3;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+    </g>
+    <g
+       id="g4000-3-94"
+       transform="matrix(0.1090909,0,0,0.10909095,1464.4624,1656.2055)"
+       style="stroke-width:17.7165432;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3996-8-9"
+         d="m -494.08211,1358.5295 c 177.16536,177.1653 177.16536,177.1653 177.16536,177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(-0.01991057,-1179.4035)"
+         inkscape:connector-curvature="0"
+         id="path3998-1-8"
+         d="m -494.08211,1535.6948 c 177.16536,-177.1653 177.16536,-177.1653 177.16536,-177.1653"
+         style="fill:none;stroke:#000000;stroke-width:17.7165432;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
