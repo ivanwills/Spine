@@ -2130,12 +2130,12 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="1"
-     inkscape:cx="694.49088"
-     inkscape:cy="677.10604"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="776.28629"
+     inkscape:cy="1459.3161"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer6"
      fill="#ffffff"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -3496,16 +3496,16 @@
          y="-433.72665">PONS</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       x="646.32507"
-       y="-430.23938"
+       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="619.32507"
+       y="-426.23938"
        id="text6852"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6854"
-         x="646.32507"
-         y="-430.23938">MIDBRAIN</tspan></text>
+         x="619.32507"
+         y="-426.23938">MIDBRAIN</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.9615376;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m -478.84645,-1106.955 1807.08675,0 992.1258,0"
@@ -3549,15 +3549,15 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
-       x="-301.68109"
-       y="-687.49274"
+       style="font-size:48px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-337.11417"
+       y="-717.19122"
        id="text6848-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6850-0"
-         x="-301.68109"
-         y="-687.49274">PAG</tspan></text>
+         x="-337.11417"
+         y="-717.19122">PAG</tspan></text>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.11803401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
        d="m -372.54728,-804.48043 1700.78748,0 992.1259,0"
@@ -3710,22 +3710,22 @@
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1234.7662"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.943"
        y="990.48065"
        id="text3194"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3196"
-         x="-1234.7662"
+         x="-1234.943"
          y="990.48065"
-         style="font-size:12px">Lateral Reticulospinal tract </tspan><tspan
+         style="font-size:14px">Lateral Reticulospinal tract </tspan><tspan
          sodipodi:role="line"
-         x="-1234.7662"
+         x="-1234.943"
          y="1005.4807"
          id="tspan3198"
-         style="font-size:12px">Regulates muscle tone</tspan></text>
+         style="font-size:14px">Regulates muscle tone</tspan></text>
     <path
        sodipodi:type="arc"
        id="path3200"
@@ -3738,18 +3738,18 @@
        style="fill:url(#radialGradient3976);fill-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="958.65289"
-       y="866.22382"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="929.65289"
+       y="844.01764"
        id="text3986"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3988"
-         x="958.65289"
-         y="866.22382">Medullary </tspan><tspan
+         x="929.65289"
+         y="844.01764">Medullary </tspan><tspan
          sodipodi:role="line"
-         x="958.65289"
-         y="881.22382"
+         x="929.65289"
+         y="861.51764"
          id="tspan3990">Reticular Formation</tspan></text>
     <path
        style="fill:none;stroke:#9b0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -3771,22 +3771,22 @@
        sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-1233.3521"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-1234.943"
        y="1059.8549"
        id="text3194-7"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3196-5"
-         x="-1233.3521"
+         x="-1234.943"
          y="1059.8549"
-         style="font-size:12px">Medial Reticulospinal tract </tspan><tspan
+         style="font-size:14px">Medial Reticulospinal tract </tspan><tspan
          sodipodi:role="line"
-         x="-1233.3521"
+         x="-1234.943"
          y="1074.8549"
          id="tspan3198-8"
-         style="font-size:12px">Position of head and neck</tspan></text>
+         style="font-size:14px">Position of head and neck</tspan></text>
     <path
        sodipodi:type="arc"
        id="path3200-2"
@@ -3799,18 +3799,18 @@
        style="fill:url(#radialGradient3976-8);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1024.8696"
-       y="726.4162"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="997.08698"
+       y="707.4162"
        id="text3986-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3988-3"
-         x="1024.8696"
-         y="726.4162">Pontine </tspan><tspan
+         x="997.08698"
+         y="707.4162">Pontine </tspan><tspan
          sodipodi:role="line"
-         x="1024.8696"
-         y="741.4162"
+         x="997.08698"
+         y="724.9162"
          id="tspan3990-6">Reticular Formation</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline"
@@ -3820,59 +3820,59 @@
        sodipodi:nodetypes="cscc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1229.4396"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1233.859"
        y="1130.793"
        id="text5007"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5009"
-         x="-1229.4396"
+         x="-1233.859"
          y="1130.793">Anterior Corticospinal</tspan><tspan
          sodipodi:role="line"
-         x="-1229.4396"
+         x="-1233.859"
          y="1145.793"
          id="tspan5011">Skilled voluntary somatic movement</tspan><tspan
          sodipodi:role="line"
-         x="-1229.4396"
+         x="-1233.859"
          y="1160.793"
          id="tspan5013">Movement of axial girdle</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1231.9377"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.943"
        y="937.09015"
        id="text5015"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5017"
-         x="-1231.9377"
+         x="-1234.943"
          y="937.09015">Raphe Spinal Tract</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1230.8539"
-       y="852.35468"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1233.859"
+       y="848.35468"
        id="text5019"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5021"
-         x="-1230.8539"
-         y="852.35468">Lateral Corticaspinal Tract</tspan><tspan
+         x="-1233.859"
+         y="848.35468">Lateral Corticaspinal Tract</tspan><tspan
          sodipodi:role="line"
-         x="-1230.8539"
-         y="867.35468"
+         x="-1233.859"
+         y="865.85468"
          id="tspan5023">Voluntary somatic movement</tspan><tspan
          sodipodi:role="line"
-         x="-1230.8539"
-         y="882.35468"
+         x="-1233.859"
+         y="883.35468"
          id="tspan5025">Movement of contralateral limbs</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-1234.943"
        y="777.01324"
        id="text5027"
@@ -3888,39 +3888,39 @@
          id="tspan5031">Facilitates flexion and inhibits extension of upper limbs</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1234.4734"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.943"
        y="564.90521"
        id="text5033"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5035"
-         x="-1234.4734"
+         x="-1234.943"
          y="564.90521">Medial Vestibulospinal Tract</tspan><tspan
          sodipodi:role="line"
-         x="-1234.4734"
+         x="-1234.943"
          y="579.90521"
          id="tspan5037">Position of head and neck</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1234.0591"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.943"
        y="493.96121"
        id="text5039"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5041"
-         x="-1234.0591"
+         x="-1234.943"
          y="493.96121">Lateral Vestibulospinal Tract</tspan><tspan
          sodipodi:role="line"
-         x="-1234.0591"
+         x="-1234.943"
          y="508.96121"
          id="tspan5043">Balance</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="-1234.4391"
        y="706.33221"
        id="text5045"
@@ -3936,15 +3936,15 @@
          id="tspan4585">Coordinates reflex head and eye movement</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-1233.2623"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-1234.4391"
        y="630.3548"
        id="text5049"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5051"
-         x="-1233.2623"
+         x="-1234.4391"
          y="630.3548">Olivospinal Tract</tspan></text>
     <g
        id="g5059"
@@ -4051,14 +4051,14 @@
        style="fill:url(#radialGradient5161);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="740.65314"
-       y="360.05838"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="753.38104"
+       y="341.67361"
        id="text3986-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="740.65314"
-         y="360.05838"
+         x="753.38104"
+         y="341.67361"
          id="tspan3990-5">Red nucleus</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:4.25459337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -4078,18 +4078,18 @@
        style="fill:url(#radialGradient5096);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="895.79736"
-       y="422.2146"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="854.79736"
+       y="408.2146"
        id="text3986-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="895.79736"
-         y="422.2146"
+         x="854.79736"
+         y="408.2146"
          id="tspan3990-4">Raphe nucleus</tspan><tspan
          sodipodi:role="line"
-         x="895.79736"
-         y="437.2146"
+         x="854.79736"
+         y="425.7146"
          id="tspan5288">Magnus</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:4.25328875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -4120,18 +4120,18 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="710.75525"
-       y="202.3735"
+       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="710.62238"
+       y="181.8674"
        id="text3986-4-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="710.75525"
-         y="202.3735"
+         x="710.62238"
+         y="181.8674"
          id="tspan3990-5-2">Superior</tspan><tspan
          sodipodi:role="line"
-         x="710.75525"
-         y="217.3735"
+         x="710.62238"
+         y="199.3674"
          id="tspan4608">Colliculus</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99685039, 3.99685039;stroke-dashoffset:0;display:inline"
@@ -4182,22 +4182,22 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="471.89145"
-       y="893.53156"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="470.89145"
+       y="844.01764"
        id="text3986-4-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="471.89145"
-         y="893.53156"
+         x="470.89145"
+         y="844.01764"
          id="tspan3990-5-7">Lateral</tspan><tspan
          sodipodi:role="line"
-         x="471.89145"
-         y="908.53156"
+         x="470.89145"
+         y="861.51764"
          id="tspan5228">Vestibular</tspan><tspan
          sodipodi:role="line"
-         x="471.89145"
-         y="923.53156"
+         x="470.89145"
+         y="879.01764"
          id="tspan5230">nucleus</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
@@ -4207,22 +4207,22 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="544.89545"
-       y="663.63995"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="540.89545"
+       y="616.63995"
        id="text3986-4-3-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="544.89545"
-         y="663.63995"
+         x="540.89545"
+         y="616.63995"
          id="tspan3990-5-7-7">Medial</tspan><tspan
          sodipodi:role="line"
-         x="544.89545"
-         y="678.63995"
+         x="540.89545"
+         y="634.13995"
          id="tspan5228-3">Vestibular</tspan><tspan
          sodipodi:role="line"
-         x="544.89545"
-         y="693.63995"
+         x="540.89545"
+         y="651.63995"
          id="tspan5230-6">nucleus</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
@@ -4366,7 +4366,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g4000"
-       transform="matrix(0.1090909,0,0,0.10909095,825.74832,291.86884)"
+       transform="matrix(0.1090909,0,0,0.10909095,826.45543,256.5135)"
        style="stroke-width:17.7165432;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
       <path
          transform="translate(-0.01991057,-1179.4035)"
@@ -4393,18 +4393,18 @@
        style="fill:url(#radialGradient5308);fill-opacity:1;display:inline" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="897.56512"
-       y="315.75333"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="859.38135"
+       y="285.42514"
        id="text3986-0-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="897.56512"
-         y="315.75333"
+         x="859.38135"
+         y="285.42514"
          id="tspan3990-4-5">Raphe nucleus</tspan><tspan
          sodipodi:role="line"
-         x="897.56512"
-         y="330.75333"
+         x="859.38135"
+         y="302.92514"
          id="tspan5288-8">Dorsalis</tspan></text>
     <path
        style="fill:none;stroke:#eb0000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow1Lstart-8);display:inline"
@@ -4429,19 +4429,19 @@
          id="tspan8391">facial nucleus</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-271.99207"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-241.00198"
        y="919.3255"
        id="text5363"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5365"
-         x="-271.99207"
+         x="-241.00198"
          y="919.3255">Corticorubral</tspan><tspan
          sodipodi:role="line"
-         x="-271.99207"
-         y="934.3255"
+         x="-241.00198"
+         y="936.8255"
          id="tspan4335">Fibres</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -4456,35 +4456,35 @@
            y="665.76208" /></flowRegion><flowPara
          id="flowPara5373" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-271.99207"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-283.18655"
        y="989.33807"
        id="text5363-5"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5365-8"
-         x="-271.99207"
+         x="-283.18655"
          y="989.33807">Bulboreticulospinal</tspan><tspan
          sodipodi:role="line"
-         x="-271.99207"
-         y="1004.3381"
+         x="-283.18655"
+         y="1006.8381"
          id="tspan4335-9">Fibres</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-271.99207"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="-274.26566"
        y="1060.7042"
        id="text5363-0"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan5365-7"
-         x="-271.99207"
+         x="-274.26566"
          y="1060.7042">Pontoreticulspinal</tspan><tspan
          sodipodi:role="line"
-         x="-271.99207"
-         y="1075.7042"
+         x="-274.26566"
+         y="1078.2042"
          id="tspan4335-6">Fibres</tspan></text>
   </g>
   <g
